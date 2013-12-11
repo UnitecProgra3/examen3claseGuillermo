@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386732323 source:c:\irrlicht-1.8\examples\examen\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
